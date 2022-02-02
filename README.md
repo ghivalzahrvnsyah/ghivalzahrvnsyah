@@ -7,12 +7,15 @@
 - ⚡ 
 
 ### Connect with me:
-[<img src="https://img.icons8.com/cute-clipart/45/000000/linkedin.png"/>](https://www.linkedin.com/in/ghivalza-harviansyah)
-[<img src="https://img.icons8.com/cute-clipart/45/000000/instagram-new.png"/>](https://www.instagram.com/ghivalhrvnsyah/)
-
+[<img src="https://img.icons8.com/cute-clipart/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ghivalza-harviansyah)
+[<img src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png"/>](https://www.instagram.com/ghivalhrvnsyah/)
 <br />
 
-### Languages and Tools:
+### Languages do I Use : 
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+<br />
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
+### Tools :
+<img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
+
+
