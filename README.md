@@ -1,7 +1,8 @@
 ### Hi there
-
-- 🔭 
-- 🌱 I’m currently 
+  
+  
+- 🔭 The name is Ghivalza Harviansyah
+- 🌱 I’m currently studying at Telkom University
 - 👯 I’m 
 - 🥅 
 - ⚡ 
