@@ -7,7 +7,7 @@
 - 🥅 
 - ⚡ 
 ### Languages do I Use : 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png"/>tittle = "Java"<img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
 <br />
 
 ### Tools :
