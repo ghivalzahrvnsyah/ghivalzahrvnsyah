@@ -1,9 +1,9 @@
 ### Hi there
   
   
-- 🔭 The name is Ghivalza Harviansyah
+- 🔭 The name is Ghivalza Harviansyah, just call me Ghival
 - 🌱 I’m currently studying at Telkom University
-- 👯 I’m 
+- 👯 I’m majoring in application software engineering
 - 🥅 
 - ⚡ 
 ### Languages do I Use : 
