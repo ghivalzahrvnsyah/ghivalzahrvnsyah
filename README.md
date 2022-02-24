@@ -1,4 +1,4 @@
-### Hi there
+### Hi there 👋🖐
   
   
 - 👦 The name is Ghivalza Harviansyah, just call me Ghival
