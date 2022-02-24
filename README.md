@@ -7,11 +7,12 @@
 - 🥅 
 - ⚡ 
 ### Languages do I Use : 
-<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" title ="java"/><img src="https://img.icons8.com/color/48/000000/kotlin.png"/>
+<img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" title ="Java"/><img src="https://img.icons8.com/color/48/000000/kotlin.png"title="Kotlin"/>
 <br />
 
 ### Tools :
-<img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/> <img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"/>
+<img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"title = "Visual Studio Code"/> 
+<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"title = "Android Studio"/>
 <br />
 
 ### Connect with me:
