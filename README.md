@@ -11,8 +11,8 @@
 <br />
 
 ### Tools :
-<img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"title = "Visual Studio Code"/> 
-<img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"title = "Android Studio"/>
+<a img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"title = "Visual Studio Code"/></a>
+<a img src="https://img.icons8.com/color/48/000000/android-studio--v2.png"title = "Android Studio"/></a>
 <br />
 
 ### Connect with me:
