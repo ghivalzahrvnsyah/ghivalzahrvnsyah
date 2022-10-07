@@ -1,7 +1,7 @@
 ### Hi there 👋🖐
   
   
-- 👦 The name is Ghivalza Harviansyah, just call me Ghival
+- 👦 The name is Ghivalza Harviansyah, just call me Ghivalza
 - 🎓 I’m currently studying at Telkom University
 - 💻 I’m majoring in application software engineering
 - 🥅 
