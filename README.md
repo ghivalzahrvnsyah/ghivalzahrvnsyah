@@ -18,5 +18,6 @@
 [<img src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png"/>](https://www.instagram.com/ghivalhrvnsyah/)
 
 ### Statistic
+<summary>:zap: GitHub Statistics</summary>
 <img src="https://github-readme-stats.vercel.app/api?username=ghivalzahrvnsyah&show_icons=true&theme=nord" width="450px">
 
