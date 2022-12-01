@@ -3,9 +3,6 @@
   
 - 👦 The name is Ghivalza Harviansyah, just call me Ghivalza
 - 🎓 I’m currently studying at Telkom University
-- 💻 I’m majoring in application software engineering
-- 🥅 
-- ⚡ 
 ### Languages do I Use : 
 <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v2.png" title ="Java"/></a>
 <img src="https://img.icons8.com/color/48/000000/kotlin.png" title="Kotlin"/></a>
@@ -19,4 +16,8 @@
 ### Connect with me:
 [<img src="https://img.icons8.com/cute-clipart/48/000000/linkedin.png"/>](https://www.linkedin.com/in/ghivalza-harviansyah)
 [<img src="https://img.icons8.com/cute-clipart/48/000000/instagram-new.png"/>](https://www.instagram.com/ghivalhrvnsyah/)
+
+### Statistic
+<summary>:zap: GitHub Statistics</summary>
+ <img src="https://github-readme-stats.vercel.app/api?username=faiz-najm&show_icons=true&theme=nord" width="400px">
 
