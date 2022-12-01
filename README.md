@@ -19,5 +19,5 @@
 
 ### Statistic
 <summary>:zap: GitHub Statistics</summary>
- <img src="https://github-readme-stats.vercel.app/api?username=faiz-najm&show_icons=true&theme=nord" width="400px">
+ <img src="https://github-readme-stats.vercel.app/api?username=ghivalzahrvnsyah&show_icons=true&theme=nord" width="450px">
 
