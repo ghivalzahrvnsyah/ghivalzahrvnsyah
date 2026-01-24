@@ -17,8 +17,8 @@
 ⚙️ &nbsp;GitHub Analytics
 <p align="center">
 <a href="https://github.com/ghivalzahrvnsyah">
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ghivalzahrvnsyah&show_icons=true&theme=tokyonight"/>
-  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ghivalzahrvnsyah&layout=compact&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api?username=ghivalzahrvnsyah&show_icons=true&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ghivalzahrvnsyah&layout=compact&theme=algolia"/>
 </a>
 </p>
 
