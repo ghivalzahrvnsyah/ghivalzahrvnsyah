@@ -49,6 +49,7 @@ I am actively open for **Full-time Opportunities**, **Freelance Projects**, or *
 - 🎨 **UI/UX Design & Prototyping** for mobile & web products
 - 🤖 **Recommender Systems Integration** into software applications
 
-📫 **Get in touch:** Feel free to click the LinkedIn or Gmail badge above to connect with me directly!
+📫 **Get in touch:** Feel free to click the LinkedIn below to connect with me directly!
 
+👉
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/ghivalza-harviansyah)
