@@ -1,5 +1,5 @@
 # 👋 Hi, GHIVALZA HARVIANSYAH
-Fresh Graduate in **Informatics from Telkom University** with a strong passion about Mobile Application Developer with expertise in builidng responsive Mobile Apps, especially **Android Development** using **Kotlin** and **Flutter**, 
+Fresh Graduate in **Informatics from Telkom University** with a strong passion about Mobile Application Developer with expertise in builidng responsive Mobile Apps, especially **Android Development** using **Kotlin** and **Flutter**.
 My key interest is in **Android Development**, **UI/UX Designer**, and **Recommender System**
 
 
@@ -8,12 +8,6 @@ My key interest is in **Android Development**, **UI/UX Designer**, and **Recomme
 ## 🕹️ My Activity
 
 <h2 align="center">Contribution Graph 📊</h2>
-
-<p align="center">
-  <a href="https://github.com/ghivalzahrvnsyah/github-readme-activity-graph">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=ghivalzahrvnsyah&theme=chartreuse-dark&area=true&hide_border=true" width="100%" />
-  </a>
-</p>
 
 ⚙️ &nbsp;GitHub Analytics
 <p align="center">
