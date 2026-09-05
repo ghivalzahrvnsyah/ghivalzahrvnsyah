@@ -1,5 +1,5 @@
 # 👋 Hi, GHIVALZA HARVIANSYAH
-Fresh Graduate in **Informatics from Telkom University** with a strong passion about Mobile Application Developer with expertise in builidng responsive Mobile Apps, especially **Android Development** using **Kotlin** and **Flutter**.
+Fresh Graduate in **Informatics from Telkom University** with a strong passion about Mobile Application Development with expertise in builidng responsive Mobile Apps, especially **Android Development** using **Kotlin** and **Flutter**.
 My key interest is in **Android Development**, **UI/UX Designer**, and **Recommender System**
 
 
